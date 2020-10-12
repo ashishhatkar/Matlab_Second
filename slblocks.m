@@ -1,2 +1,3 @@
 figure;
-x=rand(10,10)
+x=2*pi;
+m= 2*pi;
